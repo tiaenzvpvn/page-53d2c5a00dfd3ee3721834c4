@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1608f7f01c9a0083c8bd1f2f",
+  "owner": "tiaenzvpvn",
+  "repo": "page-53d2c5a00dfd3ee3721834c4",
+  "title": "SURFHUB",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "53d2c5a00dfd3ee3721834c4",
+      "a": "SURFHUB",
+      "b": "2027官方最新地址导航",
+      "entity": "SURFHUB",
+      "brand": "SURFHUB",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "27cd23c3e753e0a68f9db429a91f9451d11b7425cd41e2ae84188d2894c2b7a5",
+      "content": {
+        "primary_entity": "SURFHUB",
+        "keyword1": "SURFHUB",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，从应用商店或安装包完成订阅导入。",
+          "AI_CLIENTS_TITLE": "按设备选对客户端",
+          "AI_CLOSING_TEXT": "对比套餐权益后按设备数量选择，订阅后依客户端文档导入配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始使用",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并包含 IPLC 专线游戏加速；团队版每月 1000GB、支持 20 台设备。年付方案分别为 ¥150、¥350 与 ¥850。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，按实际使用场景匹配。",
+          "AI_FEATURES_TITLE": "选择合适的使用方案",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "不同套餐对应不同节点池与流媒体解锁范围，旗舰版提供 IPLC 专线游戏加速与优先工单支持。",
+          "AI_FEATURE_TEXT_3": "按月或按年付均可，年付方案在月付基础上折让，适合长期稳定使用的团队与个人。",
+          "AI_FEATURE_TITLE_1": "套餐与流量对照",
+          "AI_FEATURE_TITLE_2": "节点与解锁差异",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "SURFHUB 提供多档订阅方案，按设备数量与月流量选择基础版、旗舰版或团队版。客户端覆盖常见桌面与移动系统，订阅导入后即可在相应设备上使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "桌面移动客户端支持",
+          "AI_HIGHLIGHT_3": "月付年付灵活计费",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数与流量需求选取。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "对照设备数量与月流量需求，在基础版、旗舰版和团队版之间选定订阅档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的节点范围、流媒体解锁和并发设备限制，确认与常用设备匹配。",
+          "AI_STEP_TEXT_3": "在对应设备的客户端中导入订阅信息，按客户端文档完成配置并连接使用。",
+          "AI_STEP_TITLE_1": "选定订阅档位",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "SURFHUB 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。流量和在线设备数随套餐提升。",
+          "AI_FAQ_ANSWER_2": "可以。年付价格分别为 ¥150/年、¥350/年、¥850/年，按年支付比按月累计更划算，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_3": "在客户端中找到订阅或配置文件导入入口，粘贴订阅链接后更新节点即可。具体方式请参照所选客户端的说明文档。",
+          "AI_FAQ_ANSWER_4": "基础版适合轻度浏览与基础流媒体；旗舰版支持原生流媒体解锁和 IPLC 专线游戏加速，适合影音与游戏用户；团队版面向多设备协作与高带宽需求。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版配有专属客户经理服务。使用中遇到订阅或设备问题可提交工单处理。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_3": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "哪个套餐适合流媒体和游戏？",
+          "AI_FAQ_QUESTION_5": "遇到使用问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "4058game.cn",
+    "host": "4058game.cn"
+  },
+  "file_hashes": {
+    "index.html": "c3b4fb4e89e0cd352b4d7928e4f782980b9f2f5d3474f13e901c6f67cb416efc",
+    "sitemap.xml": "1113841877f79a93a9625129899fe942bdb521d2bdd1a60fbc6b6b0d322e5677",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eecf2bda98e0f3681de4a11f176edc8ec33736e67ba291918d4c19432f8ca071",
+    "robots.txt": "bcf3cdc4b7b6214cf85b51525ea029c09bb7efb17d29f9954756f7d9fb75414c",
+    "56fd332d29fa657a32b29eb20ce810a6.txt": "12e929f5012519ad3b4a09f262f8041369f196824768a852abee2c8175dbf70f"
+  },
+  "revision": "75163493833294f254fc8a40e3d0a6e6d36173906bb9ea6f928476a3d02ac68a"
+}
